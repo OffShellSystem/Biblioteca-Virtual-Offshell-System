@@ -2131,6 +2131,11 @@ Button(boton_ejecutar2, highlightbackground="black", command=lambda:[webbrowser.
 
 
 
+
+call('sudo apt-get install python3', shell=True)
+call('sudo apt-get install python3-tk', shell=True)
+
+
 root_avs.mainloop()
 
 #Ventana Principal Grande
