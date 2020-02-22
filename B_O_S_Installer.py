@@ -16,8 +16,6 @@ from tkinter import filedialog
 from tkinter import messagebox
 
 def caja_offshell():
-    
-    #Ventana Aviso Primera Instalación.
 
     root = Tk()
     root.title("··· OffShell System Society ···")
@@ -1978,9 +1976,6 @@ def equipo():
          cursor="fleur", justify="center", bd=0,  relief="raised", background="black", activebackground="black",
           font=("URW Chancery L", 16)).pack()
 
-
-
-
     pass
 
 
@@ -2031,15 +2026,6 @@ def old():
     pass
 
 
-
-
-
-
-
-
-
-
-
 def video_intro():
 
     # Create a VideoCapture object and read from input file 
@@ -2076,11 +2062,11 @@ def video_intro():
     # Closes all the frames 
     cv2.destroyAllWindows()
 
-def entrar_pant_completa():
-    root.attributes("-fullscreen", True)
 
-def salir_pant_completa():
-    root.attributes("-fullscreen", False) 
+
+
+call('sudo apt-get install python3', shell=True)
+call('sudo apt-get install python3-tk', shell=True)
 
 #Ventana Aviso Primera Instalación.
 
@@ -2129,11 +2115,6 @@ Button(boton_ejecutar2, highlightbackground="black", command=lambda:[webbrowser.
                   justify="center", bd=0,  relief="raised", overrelief="sunken", background="black",
                    activebackground="black", font=("URW Chancery L", 15)).pack()
 
-
-
-
-call('sudo apt-get install python3', shell=True)
-call('sudo apt-get install python3-tk', shell=True)
 
 
 root_avs.mainloop()
