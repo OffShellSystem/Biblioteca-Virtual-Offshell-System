@@ -8,4 +8,4 @@ Programa bajo licencia Creative Commons y autoría de Alexandre Varela Sixto.
 OffShell System es una marca registrada y este programa pertenece a su creador.
 Enlace a las características y usos permitidos de la licencia y programa: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-![alt text](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![alt text](https://co.creativecommons.org/wp-content/uploads/2008/02/by-nc-nd.png)
