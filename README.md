@@ -11,14 +11,14 @@ Biblioteca virtual con distribuciones, herramientas, explicaciones de Software L
 # Instalación en sistemas Gnu/Linux.  
 · Descarga el programa.  
 · Extrae la carpeta descargada.  
-· Abre una terminal en esta carpeta o directorio y ofrece permisos de ejecución con el comando: chmod +x B_O_S_Installer.py  
-· En la misma terminal de la carpeta ejecuta el programa con el comando: ./B_O_S_Installer.py o python3 B_O_S_Installer.py  
+· Abre una terminal en esta carpeta o directorio y ofrece permisos de ejecución con el comando:  chmod +x B_O_S_Installer.py  
+· En la misma terminal de la carpeta ejecuta el programa con el comando:  ./B_O_S_Installer.py o python3 B_O_S_Installer.py  
 · El programa se ejecutará de inmediato.
 # Instalación en sistema Windows.  
 No soy partidario de sistemas privativos, pero tampoco me gusta discriminar así que puedes ejecutar la biblioteca en el mismo.  
 · Descarga e instala Python 3 desde https://www.python.org/  
 · Abre PowerShell o CMD en la carpeta o directorio del programa.  
-· Ejecuta el comando: py B_O_S_Installer.py o python B_O_S_Installer.py  
+· Ejecuta el comando:  py B_O_S_Installer.py o python B_O_S_Installer.py  
 · El programa se ejecutará inmediatamente.  
 # Licencia Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 Programa bajo licencia Creative Commons y autoría de Alexandre Varela Sixto.  
