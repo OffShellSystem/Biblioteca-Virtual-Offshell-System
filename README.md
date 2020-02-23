@@ -6,17 +6,17 @@ Biblioteca virtual con distribuciones, herramientas, explicaciones de Software L
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Vídeo Oficial. Canal Youtube OffShell System</title>
+<title></title>
 </head>
 <body>
 
-<h1>Poner vídeo de YouTube.com</h1>
+<h1>https://www.youtube.com/watch?v=1KIlUzYoboM</h1>
 
 
 <object width="425" height="350">
 <param name="movie" value="https://www.youtube.com/watch?v=1KIlUzYoboM"></param>
 <param name="wmode" value="transparent"></param>
-<embed src="http://www.youtube.com/v/aAt0l5nxoxo" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350">
+<embed src="https://www.youtube.com/watch?v=1KIlUzYoboM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350">
 </embed>
 </object>
 
