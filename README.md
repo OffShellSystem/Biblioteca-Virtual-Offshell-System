@@ -1,7 +1,28 @@
 ![alt text](https://raw.githubusercontent.com/OffShellSystem/Biblioteca-Virtual-Offshell-System/master/offshell.gif?token=AK7Y5HXXCFW7TORAFTKBGG26KFVOI)
 # Biblioteca-Virtual-Offshell-System
 Biblioteca virtual con distribuciones, herramientas, explicaciones de Software Libre y Código Abierto, además de otras categorías e información sobre OffShell System, su comunidad y proyectos.  
-https://www.youtube.com/watch?v=1KIlUzYoboM
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Vídeo Oficial. Canal Youtube OffShell System</title>
+</head>
+<body>
+
+<h1>Poner vídeo de YouTube.com</h1>
+
+
+<object width="425" height="350">
+<param name="movie" value="https://www.youtube.com/watch?v=1KIlUzYoboM"></param>
+<param name="wmode" value="transparent"></param>
+<embed src="http://www.youtube.com/v/aAt0l5nxoxo" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350">
+</embed>
+</object>
+
+</body>
+</html>
+
 # La biblioteca incluye:
 ☛ Conjunto de servicios y plataformas web de OffShell System.  
 ☛ Más de 25 distribuciones selectas organizadas en categorías.  
