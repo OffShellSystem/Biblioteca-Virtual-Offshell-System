@@ -25,6 +25,9 @@ No soy partidario de sistemas privativos, pero tampoco me gusta discriminar así
 · Ejecuta el comando:  
 py B_O_S_Installer.py o python B_O_S_Installer.py  
 · El programa se ejecutará inmediatamente.  
+# Imágenes usadas para el diseño gráfico:  
+Las imágenes que he usado como base del trabajo gráfico en la aplicación son extraídas de la librería online Pixabay.com  
+Están modificadas y diseñadas por el autor del programa pero aún así se debe agradecer la base de las mismas a sus autores.
 # Licencia Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 Programa bajo licencia Creative Commons y autoría de Alexandre Varela Sixto.  
 OffShell System es una marca registrada y este programa pertenece a su creador.  
