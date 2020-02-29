@@ -24,7 +24,9 @@ No soy partidario de sistemas privativos, pero tampoco me gusta discriminar así
 · Abre PowerShell o CMD en la carpeta o directorio del programa.  
 · Ejecuta el comando:  
 py B_O_S_Installer.py o python B_O_S_Installer.py  
-· El programa se ejecutará inmediatamente.  
+· El programa se ejecutará inmediatamente. 
+# Grupo DIscord para nuestra comunidad.
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ffr%2Fthumb%2F0%2F05%2FDiscord.svg%2F1200px-Discord.svg.png&f=1&nofb=1)
 # Imágenes usadas para el diseño gráfico:  
 Las imágenes que he usado como base del trabajo gráfico en la aplicación son extraídas de la librería online Pixabay.com  
 Están modificadas y diseñadas por el autor del programa pero aún así se debe agradecer la base de las mismas a sus autores.
