@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# Autor: Alexandre Varela Sixto
+
 from tkinter import *
 from tkinter import ttk
 import tkinter as tk
