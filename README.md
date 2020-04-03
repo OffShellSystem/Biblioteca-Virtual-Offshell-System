@@ -18,11 +18,11 @@ Biblioteca virtual con distribuciones, herramientas, explicaciones de Software L
   - pip3 install numpy
   - pip3 install tk
   - pip3 install opencv-python  
-  · Abre una terminal en esta carpeta o directorio y ofrece permisos de ejecución con el comando:  
+· Abre una terminal en esta carpeta o directorio y ofrece permisos de ejecución con el comando:  
   - chmod +x B_O_S_Installer.py  
-  · En la misma terminal de la carpeta ejecuta el programa con el comando:  
+· En la misma terminal de la carpeta ejecuta el programa con el comando:  
   - ./B_O_S_Installer.py o python3 B_O_S_Installer.py  
-  · El programa se ejecutará de inmediato.
+· El programa se ejecutará de inmediato.
 # Instalación en sistema Windows.  
 No soy partidario de sistemas privativos, pero tampoco me gusta discriminar así que puedes ejecutar la biblioteca en el mismo.  
 · Descarga e instala Python 3 desde https://www.python.org/  
