@@ -13,6 +13,11 @@ Biblioteca virtual con distribuciones, herramientas, explicaciones de Software L
 # Instalación en sistemas Gnu/Linux.  
 · Descarga el programa.  
 · Extrae la carpeta descargada.  
+· Necesario instalar las siguientes librería:
+  - sudo apt-get intall python3-pip
+  - pip3 install numpy
+  - pip3 install tk
+  - pip3 install opencv-python
 · Abre una terminal en esta carpeta o directorio y ofrece permisos de ejecución con el comando:  
 chmod +x B_O_S_Installer.py  
 · En la misma terminal de la carpeta ejecuta el programa con el comando:  
