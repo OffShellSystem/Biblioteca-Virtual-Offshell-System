@@ -1,0 +1,4 @@
+###### Dependencias Necesarias ######
+numpy
+tk
+opencv-python
